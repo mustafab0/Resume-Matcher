@@ -1,0 +1,193 @@
+{
+              "bi_grams": "[build humanoid, humanoid bi, bi -pedal, -pedal robots, automate repetitive, boring tasks, software team, implement reliable, efficient control, control code, bipedal locomotion, locomotion object, object manipulation, state estimati, real world, simulation engine, term run, humanoid robots, real world, world situations, high quality, quality standards, -joint level, level systems, develop smart, smart control, estimation techniques, seamlessly switch, control mod, mod es, es depending, Develop control, control architectures, design spring, spring mass, mass models, feedback control, joint level, Develop thermal, state estimation, estimation models, torque limiting, power arbitrati, multiple joints, DC bus, Physics Modeling, Modeling Fundamentals, linkages work]",
+              "clean_data": "What to Expect  \nTesla i s on a path to build humanoid bi -pedal robots at scale to automate repetitive and boring tasks As \na member of the software team you will design and implement reliable & efficient control code for \nbipedal locomotion object manipulation and state estimati on You will work on improving the robot\u2019s \nbehavior in the real world and reflecting those capabilities in a simulation engine for fast  iteration The \ncode you will write will at term run in thousands of humanoid robots in real world situations and will \ntherefore be held to high quality standards  \nWhat You\u2019ll Do  \n Work on the architecture and controls for per -joint level systems in the TeslaBot where we need \nto develop smart control and estimation techniques to seamlessly switch between different \ncontrol mod es depending on the task  \n Develop control architectures beyond PID\u2019s where we design spring mass models and full state \nfeedback control at a joint level  \n Develop thermal and state estimation models for torque limiting and safety  \n Torque and power arbitrati on between multiple joints which share a DC bus  \n  \n \nWhat You\u2019ll Bring  \n Physics Modeling Fundamentals  \n Understanding of how motors / gears / linkages work  \n Strong with C  \n Implemented on hardware  \n ",
+              "emails": [],
+              "entities": [
+                            "Torque",
+                            "Develop",
+                            "PID",
+                            "DC"
+              ],
+              "experience": "",
+              "extracted_keywords": [
+                            "Tesla",
+                            "path",
+                            "bi",
+                            "robots",
+                            "scale",
+                            "tasks",
+                            "member",
+                            "software",
+                            "team",
+                            "control",
+                            "code",
+                            "locomotion",
+                            "object",
+                            "manipulation",
+                            "state",
+                            "estimati",
+                            "robot",
+                            "behavior",
+                            "world",
+                            "capabilities",
+                            "simulation",
+                            "engine",
+                            "iteration",
+                            "code",
+                            "term",
+                            "thousands",
+                            "robots",
+                            "world",
+                            "situations",
+                            "quality",
+                            "standards",
+                            "architecture",
+                            "controls",
+                            "-joint",
+                            "level",
+                            "systems",
+                            "TeslaBot",
+                            "control",
+                            "estimation",
+                            "techniques",
+                            "control",
+                            "mod",
+                            "task",
+                            "Develop",
+                            "control",
+                            "PID",
+                            "spring",
+                            "mass",
+                            "models",
+                            "state",
+                            "feedback",
+                            "control",
+                            "level",
+                            "state",
+                            "estimation",
+                            "models",
+                            "torque",
+                            "limiting",
+                            "safety",
+                            "Torque",
+                            "power",
+                            "arbitrati",
+                            "joints",
+                            "DC",
+                            "bus",
+                            "Physics",
+                            "Modeling",
+                            "Fundamentals",
+                            "Understanding",
+                            "motors",
+                            "gears",
+                            "linkages",
+                            "Strong",
+                            "C",
+                            "hardware"
+              ],
+              "keyterms": [
+                            [
+                                          "spring mass",
+                                          0.11569140299537511
+                            ],
+                            [
+                                          "control architecture",
+                                          0.07387127701206435
+                            ],
+                            [
+                                          "real world",
+                                          0.05825306438967797
+                            ],
+                            [
+                                          "Develop control",
+                                          0.048979109787495326
+                            ],
+                            [
+                                          "mod es",
+                                          0.04427008904102638
+                            ],
+                            [
+                                          "control mod",
+                                          0.03408575420755619
+                            ],
+                            [
+                                          "estimation technique",
+                                          0.03308618722050483
+                            ],
+                            [
+                                          "level system",
+                                          0.030214986061192717
+                            ],
+                            [
+                                          "quality standard",
+                                          0.02920544088552769
+                            ],
+                            [
+                                          "smart control",
+                                          0.02839032426927969
+                            ],
+                            [
+                                          "simulation engine",
+                                          0.027819720538961677
+                            ],
+                            [
+                                          "state estimati",
+                                          0.026428966071970258
+                            ],
+                            [
+                                          "world situation",
+                                          0.02504498402012643
+                            ],
+                            [
+                                          "-joint level",
+                                          0.024804991086807948
+                            ],
+                            [
+                                          "high quality",
+                                          0.024052332055356597
+                            ],
+                            [
+                                          "object manipulation",
+                                          0.024038663120381436
+                            ],
+                            [
+                                          "humanoid robot",
+                                          0.02248089128740631
+                            ],
+                            [
+                                          "locomotion object",
+                                          0.020699340263862328
+                            ],
+                            [
+                                          "bipedal locomotion",
+                                          0.018093262680998354
+                            ],
+                            [
+                                          "control code",
+                                          0.017410233704687323
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 19,
+                            "ADP": 28,
+                            "ADV": 2,
+                            "AUX": 8,
+                            "CCONJ": 12,
+                            "DET": 13,
+                            "NOUN": 61,
+                            "PART": 7,
+                            "PRON": 12,
+                            "PROPN": 15,
+                            "SCONJ": 4,
+                            "SPACE": 21,
+                            "SYM": 2,
+                            "VERB": 24
+              },
+              "resume_data": "What to Expect  \nTesla i s on a path to build humanoid bi -pedal robots at scale to automate repetitive and boring tasks. As \na member of the software team, you will design and implement reliable & efficient control code for \nbipedal locomotion, object manipulation and state estimati on. You will work on improving the robot\u2019s \nbehavior in the real world, and reflecting those capabilities in a simulation engine for fast  iteration. The \ncode you will write will at term run in thousands of humanoid robots in real world situations and will \ntherefore be held to high quality standards.  \nWhat You\u2019ll Do  \n\u2022 Work on the architecture and controls for per -joint level systems in the TeslaBot where we need \nto develop smart control and estimation techniques to seamlessly switch between different \ncontrol mod es depending on the task.  \n\u2022 Develop control architectures beyond PID\u2019s where we design spring mass models and full state \nfeedback control at a joint level.  \n\u2022 Develop thermal and state estimation models for torque limiting and safety.  \n\u2022 Torque and power arbitrati on between multiple joints which share a DC bus  \n  \n \nWhat You\u2019ll Bring  \n\u2022 Physics Modeling Fundamentals  \n\u2022 Understanding of how motors / gears / linkages work  \n\u2022 Strong with C.  \n\u2022 Implemented on hardware  \n ",
+              "tri_grams": "[Tesla i s, path to build, build humanoid bi, humanoid bi -pedal, bi -pedal robots, robots at scale, scale to automate, repetitive and boring, design and implement, efficient control code, bipedal locomotion object, locomotion object manipulation, manipulation and state, work on improving, improving the robot, world and reflecting, reflecting those capabilities, engine for fast, run in thousands, thousands of humanoid, robots in real, real world situations, held to high, high quality standards, architecture and controls, -joint level systems, develop smart control, control and estimation, techniques to seamlessly, switch between different, control mod es, mod es depending, Develop control architectures, architectures beyond PID, design spring mass, spring mass models, thermal and state, state estimation models, models for torque, limiting and safety, Torque and power, joints which share, share a DC, Physics Modeling Fundamentals, Strong with C, Implemented on hardware]",
+              "unique_id": "3c93c4d7-01d6-4627-a34d-5587c54fa7b6",
+              "years": []
+}
